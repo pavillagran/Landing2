@@ -17,5 +17,7 @@ login.html
 contacto.html
 
 
+*Se espera feedback y la posterior entrega definitiva la proxima semana para terminarla mejor.
+
 Pablo Villagrán Placencia
 
